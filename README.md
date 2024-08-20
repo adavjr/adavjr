@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adavjr, Anthony Davenport.
 - I am a B.S. Computer Science major at University of Miami, class of 2026 
 - 👀 I’m interested in cybersecruity, data analytics, and the intersection of technology and business
-- 🌱 I’m currently learning Java and MySQL.
+- 🌱 I’m currently learning C, React, & MongoDB.
 - 📫 How to reach me:
   - Recruiters: adavjr26@gmail.com or axd1956@miami.edu
   - Project collaboration / Casual messages: adavjr05@gmail.com
